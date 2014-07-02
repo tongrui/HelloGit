@@ -8,7 +8,7 @@ public class TestJava {
 		System.out.println("test01");
 		//11 ≤‚ ‘ 0024 Œ¥0031¿¥
   // test 001£Ø0045 la 
-		// 00 55
+		// 00 58888
 	}
 
 }

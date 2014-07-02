@@ -10,4 +10,4 @@ Hello Git test
 分支2
 =======
 第8行 开始有冲突了
->>>>>>> refs/heads/0701
+>>>>>>> refs/heads/0701ee
